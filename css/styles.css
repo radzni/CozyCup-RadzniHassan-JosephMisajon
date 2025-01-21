@@ -6,12 +6,12 @@ body, h1, h2, h3, p, ul, li {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #d4cebd;
+    background-color: #FFE4C4;
     color: #4c3c32;
 }
 
 header {
-    background-color: #ffffffb7;
+    background-color: #FFE4C4;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 20px;
 }
@@ -44,11 +44,12 @@ nav a:hover {
 }
 
 .hero {
+    text-shadow: 2px -2px 0px rgba(0, 0, 0, 0.5);
     text-align: center;
-    padding: 150px 0;
-    background-image: url('hero-bg.jpg');
+    padding: 100px 0px 150px ;
+    background-image: url('../img/home1.png');
     background-size: cover;
-    color: white;
+    color: #E6E6FA;
 }
 
 .hero h1 {
@@ -75,7 +76,7 @@ nav a:hover {
 }
 
 .menu {
-    padding: 100px 0;
+    padding: 130px 0;
     text-align: center;
 }
 
@@ -87,7 +88,7 @@ nav a:hover {
 .about {
     padding: 100px 0;
     text-align: center;
-    background-color: #ede4d6;
+    background-color: #E6E6FA;
 }
 
 .about h2 {
