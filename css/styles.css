@@ -46,10 +46,10 @@ nav a:hover {
 .hero {
     text-shadow: 2px -2px 0px rgba(0, 0, 0, 0.5);
     text-align: center;
-    padding: 100px 0px 150px ;
+    padding: 0px 0px 400px ;
     background-image: url('../img/home1.png');
     background-size: cover;
-    color: #E6E6FA;
+    color: white;
 }
 
 .hero h1 {
@@ -76,7 +76,7 @@ nav a:hover {
 }
 
 .menu {
-    padding: 130px 0;
+    padding: 0px 0 130px;
     text-align: center;
 }
 
@@ -124,4 +124,14 @@ footer {
     color: white;
     text-align: center;
     padding: 20px 0;
+}
+
+.social-media img {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.media img {
+    max-width: 70px;
+    max-height: 70px;
 }
