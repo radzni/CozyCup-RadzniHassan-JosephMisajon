@@ -19,5 +19,14 @@ This project is a simple website design and fix featuring a colaboration between
 <b>Email: </b> 202280084@psu.palawan.edu.ph
 
 [![Facebook logo](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png)](https://web.facebook.com/radzni.hassan)
-[![Github logo](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png)](https://github.com/radzni)
+[![Github logo](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png)](https://github.com/radzni) 
+
+<img src="https://avatars.githubusercontent.com/u/169869991?v=4" alt="Joseph Github" style="border-radius = 50%;" width="150px">
+<b>Name: </b> Joseph P. Misajon 
+
+<b>Email: </b> 202280387@psu.palawan.edu.ph
+
+[![Facebook logo](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png)](https://web.facebook.com/josephpalaymisajon)
+[![Github logo](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png)](https://github.com/)
+
 
