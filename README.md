@@ -8,9 +8,17 @@ This project is a simple website design and fix featuring a colaboration between
 * An engaging story about how the cafe came to be
 * An interactive socmed logo u can click
 
-# Screen Capture (Di pa tapos lahat)
-
-
+# Screen Capture
+![nav](img/nav.png)
+This is our navigation section featuring navigation for the site
+![home](img/home.png)
+And this is the Home section featuring tagline and a welcoming photo
+![menu](img/menu.png)
+Next is the Menu section that features all the products of the cafe
+![about](img/about.png)
+This is the about section features the story of the cafe and the members
+![con](img/contact.png)
+This is the contact and footer section features app costumer can contact the cafe
 
 # About Authors
 <img src="https://avatars.githubusercontent.com/u/115959454?v=4" alt="Radzni Github" style="border-radius: 50%;" width="150px">
